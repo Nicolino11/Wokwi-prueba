@@ -13,7 +13,7 @@ La salida vale 1 si el numero en el registro es el correcto (1101000)
 
 ## How to test
 
--
+.
 
 ## External hardware
 
