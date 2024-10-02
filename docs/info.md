@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-La salida vale 1 si el numero en el registro es el correcto (1101000)
+La salida vale 1 si el numero en el registro es el correcto (1101000).
 
 ## How to test
 
